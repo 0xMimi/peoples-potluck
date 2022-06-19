@@ -1,0 +1,14 @@
+__pycache__/
+node_modules/
+package-lock.json
+.env
+**.bin
+Procfile
+requirements.txt
+runtime.txt
+tempCodeRunnerFile.js
+.firebaserc
+firebase.json
+package.json
+**.cache
+
