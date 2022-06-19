@@ -1,8 +1,6 @@
 # People's Potluck
 
-[peoples-potluck.web.app](https://peoples-potluck.web.app/)
-
-Registered domain on Domain.com: [peoplespotluck.tech](https://peoplespotluck.tech/) (Not fully functionnal yet since security certificate takes time to work. My project needs https to work, so go on previous link)
+[peoplespotluck.tech](https://peoplespotluck.tech/)
 
 Also requires Hedera wallet to work
 
